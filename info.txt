@@ -1,0 +1,5 @@
+How to Push into Repo 
+
+1. git add . 
+2. git commit -m "Update"
+3. git push -u origin main
