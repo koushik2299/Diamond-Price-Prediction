@@ -1,1 +1,9 @@
 pandas 
+numpy 
+scikit-learn
+seaborn
+flask
+streamlit 
+matplotlib
+gradio
+gradio-client
